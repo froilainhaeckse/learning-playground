@@ -1,1 +1,1 @@
-# learning
+# This is my learning playground consisting of different projects!
